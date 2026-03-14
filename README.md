@@ -12,7 +12,7 @@
 * 🤖 Interested in **AI, NLP, and Machine Learning**
 * 💻 Full Stack Developer
 * 🚀 Building projects that solve real-world problems
-* 📫 Reach me at: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+* 📫 Reach me at: **[your-email@gmail.com](mailto:amansingh12073@gmail.com)**
 
 ---
 
