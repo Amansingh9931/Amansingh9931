@@ -1,86 +1,143 @@
-# Hi 👋, I'm Aman Kumar
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
-🚀 Passionate about **Artificial Intelligence, Machine Learning, and Full Stack Development**
+<h3 align="center">AI • Machine Learning • Full Stack Developer</h3>
 
-💡 I love building real-world tech solutions using **AI + Web Development**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Web+Developer;NLP+Enthusiast;Building+Real+World+Tech+Projects"/>
+</p>
 
----
-
-## 🌟 About Me
-
-* 🎓 Computer Science Student
-* 🤖 Interested in **AI, NLP, and Machine Learning**
-* 💻 Full Stack Developer
-* 🚀 Building projects that solve real-world problems
-* 📫 Reach me at: **[amansingh12073@gmail.com](mailto:amansingh12073@gmail.com)**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Amansingh9931&label=Profile%20Views&color=blue&style=flat"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 About Me
 
-### 📰 Fake News Detection System
+🎓 Computer Science Student
 
-* Built using **Machine Learning + NLP**
-* Detects whether a news article is **Real or Fake**
-* Tech Stack: Python, FastAPI, React, BERT
+🤖 Passionate about **Artificial Intelligence & NLP**
 
-### 🛒 GroceCart – Grocery E-commerce Platform
+💻 Full Stack Developer
 
-* Full-stack grocery ordering web application
-* Features product browsing, cart, and checkout
-* Tech Stack: MERN Stack
+🚀 Building **real-world tech solutions**
+
+🌱 Currently learning **Deep Learning & System Design**
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Coding Profiles
 
-### Programming
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+<img src="https://leetcard.jacoblin.cool/amansingh12073?theme=dark&font=baloo&border=0"/>
 
-### Web Development
-
-![React](https://img.shields.io/badge/React-61DAFB)
-![NodeJS](https://img.shields.io/badge/NodeJS-green)
-![Express](https://img.shields.io/badge/Express-black)
-
-### AI / ML
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
-![NLP](https://img.shields.io/badge/NLP-orange)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![VSCode](https://img.shields.io/badge/VSCode-blue)
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amansingh9931\&show_icons=true\&theme=radical)
+### 👨‍💻 Programming
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amansingh9931\&layout=compact\&theme=radical)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind"/>
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amansingh9931\&theme=radical)
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amansingh9931&show_icons=true&theme=tokyonight"/>
 
-## 🌐 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amansingh9931&layout=compact&theme=tokyonight"/>
 
-💼 LinkedIn: https://linkedin.com/in/your-link
-
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-
-🌍 Portfolio: your-portfolio-link
+</p>
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amansingh9931&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 3D GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amansingh9931&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amansingh9931&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<a href="https://github.com/Amansingh9931/Fake-News-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amansingh9931&repo=Fake-News-Detection&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Amansingh9931/GroceCart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amansingh9931&repo=GroceCart&theme=tokyonight" />
+</a>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/aman-kumar-5551331b7">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:amansingh12073@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ From [Aman Kumar](https://github.com/Amansingh9931)
