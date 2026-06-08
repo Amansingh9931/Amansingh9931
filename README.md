@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
-<h3 align="center">AI • Machine Learning • Full Stack Developer</h3>
+<h3 align="center">Aspiring DevOps Engineer • MERN Stack Developer • Cloud Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Web+Developer;NLP+Enthusiast;Building+Real+World+Tech+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+DevOps+Engineer;MERN+Stack+Developer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Jenkins;Building+Scalable+Applications"/>
 </p>
 
 <p align="center">
@@ -14,64 +14,84 @@
 
 # 🚀 About Me
 
-🎓 Computer Science Student
+🎓 B.Tech CSE Undergraduate (Entering 7th Semester)
 
-🤖 Passionate about **Artificial Intelligence & NLP**
+💻 Aspiring MERN Stack Developer & DevOps Engineer
 
-💻 Full Stack Developer
+☁️ Passionate about Cloud Computing, Automation & Infrastructure Management
 
-🚀 Building **real-world tech solutions**
+🚀 Building scalable web applications and cloud-native solutions
 
-🌱 Currently learning **Deep Learning & System Design**
+🔧 Hands-on experience with Docker, Kubernetes, Ansible, Terraform, AWS, Linux, and CI/CD pipelines
+
+🌱 Currently focused on DevOps Engineering, System Design & Cloud Architecture
 
 ---
 
 # 🧠 Coding Profiles
 
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/amansingh12073?theme=dark&font=baloo&border=0"/>
-
 </p>
 
 ---
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,bash"/>
 </p>
 
-### 🌐 Web Development
+## 🌐 MERN Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,tailwind,javascript"/>
 </p>
 
-### 🤖 AI / ML
+## ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,ansible,nginx,githubactions"/>
 </p>
 
-### ⚙️ Tools
+## 🐧 Linux & System Administration
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=linux,bash"/>
 </p>
 
----
+### Linux Commands & Tools
 
-# 📊 GitHub Analytics
+```bash
+grep
+awk
+sed
+find
+curl
+wget
+ssh
+scp
+rsync
+systemctl
+journalctl
+netstat
+ss
+top
+htop
+crontab
+chmod
+chown
+tar
+zip
+unzip
+```
 
-<p align="center">
+## ⚙️ Development Tools
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amansingh9931&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amansingh9931&layout=compact&theme=tokyonight"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
@@ -79,60 +99,34 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amansingh9931&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 📊 3D GitHub Contribution Graph
+# 🎯 Current Focus
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amansingh9931&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amansingh9931&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<a href="https://github.com/Amansingh9931/Fake-News-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amansingh9931&repo=Fake-News-Detection&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Amansingh9931/GroceCart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amansingh9931&repo=GroceCart&theme=tokyonight" />
-</a>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+- 🚀 Building Production-Ready MERN Applications
+- 🐳 Containerization with Docker
+- ☸️ Kubernetes Orchestration
+- ☁️ AWS Cloud Services
+- 🏗️ Infrastructure as Code using Terraform
+- ⚙️ Configuration Management using Ansible
+- 🔄 CI/CD Pipelines with Jenkins & GitHub Actions
+- 🐧 Linux Administration & Automation
+- 📐 System Design & Scalable Architectures
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://glistening-pony-faffac.netlify.app/">
+<a href="https://glistening-pony-faffac.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/aman-kumar-5551331b7">
+<a href="https://linkedin.com/in/aman-kumar-5551331b7" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -144,4 +138,10 @@
 
 ---
 
+<div align="center">
+
+### 💡 "Automating Infrastructure, Building Scalable Applications, and Continuously Learning."
+
 ⭐ From [Aman Kumar](https://github.com/Amansingh9931)
+
+</div>
